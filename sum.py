@@ -2,4 +2,4 @@
 
 def sum(a,b):
     return a+b
-print(sum(5,6))
+print("the sum of numbers is",sum(5,6))
